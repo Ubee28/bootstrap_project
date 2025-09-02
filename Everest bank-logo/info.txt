@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Cabin-Bold
+font link: https://fonts.google.com/specimen/Cabin
+font author: Impallari Type
+font author site: www.impallari.com
+Slogan Font: SpaceMono-Regular.ttf
+
+icon designer: Amethyst Studio
+icon designer link: /AmethystStudio
+        
+{"bg":"#EFEEEB","icon-gradient-0":"#0978A6","icon-gradient-1":"#FB9447","font":"#1F1E1A","slogan":"#33322e"}
+      

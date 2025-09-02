@@ -1,0 +1,54 @@
+
+/*div{
+min-height: 100px;
+border: 2px solid red;
+font-family: Roboto, sans-serif;
+}*/
+
+.navbar-text,
+.navbar-brand,
+.nav-link{
+	color: #000 !important;
+}
+.hfooter{
+	border-right: 1px solid white !important;
+	font-size:10px;
+	color:#fff ;
+}
+
+.logo{
+	background-color:#dd6e42;
+}
+.header{
+	padding-left: 100px;
+	border-bottom: 2px solid grey;
+}
+.text{
+	padding-left: 100px;
+}	
+.no-line{
+	border-bottom: 0px !important;
+}
+.box-area{
+	
+	width:930px;
+}
+
+/* .right-box{
+	40px 30px 40px 40px;
+} */
+
+::placeholder{
+	font-size: 16px;
+}
+@media only screen and (max-width:768px){
+	.box-area{
+		margin:o 10px;
+	}
+	.left-box{
+		overflow:hidden;
+	}
+	.right-box{
+		padding:20px;
+	}
+}
